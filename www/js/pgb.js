@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function authorInfo(){
+	info='Joanna Fitrzyk'
+	navigator.notification.alert(info);
+}
